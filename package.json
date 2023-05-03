@@ -1,0 +1,15 @@
+{
+    "name": "paima-interactive-landscape",
+    "version": "1.0.0",
+    "description": "Interactive visualization of the Paima ecosystem",
+    "scripts": {
+      "build": "npm run latest; npm config set scripts-prepend-node-path true; export PROJECT_PATH=\"$PWD\"; npm explore interactive-landscape -- npm run build"
+    },
+    "author": "Paima Studios",
+    "license": "MIT",
+    "keywords": [],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/PaimaStudios/paima-landscape"
+    }
+  }

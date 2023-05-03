@@ -1,0 +1,46 @@
+landscape:
+  - category:
+    name: Projects
+    subcategories:
+      - subcategory:
+        name: Games
+        items:
+          - item:
+            name: 1base
+            homepage_url: https://8base.com
+            logo: 8base.svg
+            organization:
+              name: StepZen, Inc.
+      - subcategory:
+        name: Apps
+        items:
+          - item:
+            name: 2base
+            homepage_url: https://8base.com
+            logo: 8base.svg
+            organization:
+              name: StepZen, Inc.
+  - category:
+    name: Ecosystem Partners
+    subcategories:
+      - subcategory:
+        name: General
+        items:
+          - item:
+            name: 3base
+            homepage_url: https://8base.com
+            logo: 8base.svg
+            organization:
+              name: StepZen, Inc.
+  - category:
+    name: Paima Engine Professionals
+    subcategories:
+      - subcategory:
+        name: Services
+        items:
+          - item:
+            name: 4base
+            homepage_url: https://8base.com
+            logo: 8base.svg
+            organization:
+              name: StepZen, Inc.

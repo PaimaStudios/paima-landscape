@@ -1,0 +1,3 @@
+[submodule "landscapeapp"]
+	path = landscapeapp
+	url = https://github.com/cncf/landscapeapp
