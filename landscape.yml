@@ -3,44 +3,72 @@ landscape:
     name: Projects
     subcategories:
       - subcategory:
-        name: Games
+        name: Game
         items:
           - item:
-            name: 1base
-            homepage_url: https://8base.com
-            logo: 8base.svg
+            name: Wrath of the Jungle
             organization:
-              name: StepZen, Inc.
-      - subcategory:
-        name: Apps
-        items:
-          - item:
-            name: 2base
-            homepage_url: https://8base.com
-            logo: 8base.svg
-            organization:
-              name: StepZen, Inc.
+              name: Paima Studios
+            logo: attj8UqE4o6D7keUK.svg
+            homepage_url: https://paimastudios.com
+            twitter: https://twitter.com/paimastudios
   - category:
     name: Ecosystem Partners
     subcategories:
       - subcategory:
-        name: General
+        name: Chain
         items:
           - item:
-            name: 3base
-            homepage_url: https://8base.com
-            logo: 8base.svg
+            name: Algorand Foundation
             organization:
-              name: StepZen, Inc.
+              name: Algorand Foundation
+            logo: attz0EZ7sgRq019Y9.svg
+            homepage_url: https://www.algorand.foundation/
+            twitter: https://twitter.com/AlgoFoundation
+          - item:
+            name: Astar
+            organization:
+              name: Astar
+            logo: attIeJory5ru60Z08.svg
+            homepage_url: https://astar.network/
+            twitter: https://twitter.com/astarNetwork
+          - item:
+            name: Milkomeda
+            organization:
+              name: Milkomeda
+            logo: att50oHnmlssGdpOw.svg
+            homepage_url: https://milkomeda.com/
+            twitter: https://twitter.com/Milkomeda_com
   - category:
     name: Paima Engine Professionals
     subcategories:
       - subcategory:
-        name: Services
+        name: Devshop
         items:
           - item:
-            name: 4base
-            homepage_url: https://8base.com
-            logo: 8base.svg
+            name: MLabs
             organization:
-              name: StepZen, Inc.
+              name: MLabs
+            logo: attT6C8G4aOZlXbFm.svg
+            homepage_url: https://mlabs.city/
+            twitter: https://twitter.com/MLabs10
+          - item:
+            name: VacuumLabs
+            organization:
+              name: VacuumLabs
+            logo: attrk7A4ypA7ICSbp.svg
+            homepage_url: https://vacuumlabs.com/
+            twitter: https://twitter.com/vacuumlabs
+      - subcategory:
+        name: Launchpad
+        items:
+          - item:
+            name: Genius X
+            organization:
+              name: Genius X
+            logo: attXh58sCyjmsfY9N.svg
+            homepage_url: https://www.genius-x.co/
+            twitter: https://twitter.com/OfficialGeniusX
+  - category:
+    name: Unused
+    subcategories: []

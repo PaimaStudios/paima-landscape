@@ -4,38 +4,21 @@ landscape:
     name: Projects
     subcategories:
       - subcategory:
-        name: Games
+        name: Game
         items:
           - item:
-            name: 1base
-            homepage_url: https://8base.com
-            logo: 8base.svg
+            name: Wrath of the Jungle
             organization:
-              name: StepZen, Inc.
+              name: Paima Studios
+            logo: attj8UqE4o6D7keUK.svg
+            homepage_url: https://paimastudios.com
+            twitter: https://twitter.com/paimastudios
             crunchbase_data:
-              name: StepZen, Inc.
+              name: Paima Studios
               parents: []
             image_data:
-              fileName: 1base.svg
-              hash: tD48OX9062ith8sfflkBulXND1Wi1stgsyN/BS1iAME=
-            best_practice_data:
-              badge: false
-              percentage: null
-      - subcategory:
-        name: Apps
-        items:
-          - item:
-            name: 2base
-            homepage_url: https://8base.com
-            logo: 8base.svg
-            organization:
-              name: StepZen, Inc.
-            crunchbase_data:
-              name: StepZen, Inc.
-              parents: []
-            image_data:
-              fileName: 2base.svg
-              hash: tD48OX9062ith8sfflkBulXND1Wi1stgsyN/BS1iAME=
+              fileName: wrath-of-the-jungle.svg
+              hash: W3o+1ocmlpsPxgGKtxWfCZEy4pQw9H4NVfDKAHs5qVg=
             best_practice_data:
               badge: false
               percentage: null
@@ -43,20 +26,53 @@ landscape:
     name: Ecosystem Partners
     subcategories:
       - subcategory:
-        name: General
+        name: Chain
         items:
           - item:
-            name: 3base
-            homepage_url: https://8base.com
-            logo: 8base.svg
+            name: Algorand Foundation
             organization:
-              name: StepZen, Inc.
+              name: Algorand Foundation
+            logo: attz0EZ7sgRq019Y9.svg
+            homepage_url: https://www.algorand.foundation/
+            twitter: https://twitter.com/AlgoFoundation
             crunchbase_data:
-              name: StepZen, Inc.
+              name: Algorand Foundation
               parents: []
             image_data:
-              fileName: 3base.svg
-              hash: tD48OX9062ith8sfflkBulXND1Wi1stgsyN/BS1iAME=
+              fileName: algorand-foundation.svg
+              hash: ec6DGGaP7KpEUO07/reh04zBwcq9YfFmA/Ms78cfX6g=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Astar
+            organization:
+              name: Astar
+            logo: attIeJory5ru60Z08.svg
+            homepage_url: https://astar.network/
+            twitter: https://twitter.com/astarNetwork
+            crunchbase_data:
+              name: Astar
+              parents: []
+            image_data:
+              fileName: astar.svg
+              hash: 1kphDP9aWkGhPmWoeI6BMzdmLStA12dNye5sVywCq0w=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Milkomeda
+            organization:
+              name: Milkomeda
+            logo: att50oHnmlssGdpOw.svg
+            homepage_url: https://milkomeda.com/
+            twitter: https://twitter.com/Milkomeda_com
+            crunchbase_data:
+              name: Milkomeda
+              parents: []
+            image_data:
+              fileName: milkomeda.svg
+              hash: KpMZz2sIO6wqbGPwITkhc+JxW6KobUbAjvJWP25Os30=
             best_practice_data:
               badge: false
               percentage: null
@@ -64,20 +80,59 @@ landscape:
     name: Paima Engine Professionals
     subcategories:
       - subcategory:
-        name: Services
+        name: Devshop
         items:
           - item:
-            name: 4base
-            homepage_url: https://8base.com
-            logo: 8base.svg
+            name: MLabs
             organization:
-              name: StepZen, Inc.
+              name: MLabs
+            logo: attT6C8G4aOZlXbFm.svg
+            homepage_url: https://mlabs.city/
+            twitter: https://twitter.com/MLabs10
             crunchbase_data:
-              name: StepZen, Inc.
+              name: MLabs
               parents: []
             image_data:
-              fileName: 4base.svg
-              hash: tD48OX9062ith8sfflkBulXND1Wi1stgsyN/BS1iAME=
+              fileName: m-labs.svg
+              hash: J/wO7gwfNx8bWz7MHa31+YswV4Mqbh8HWMy9I0fk94Y=
             best_practice_data:
               badge: false
               percentage: null
+          - item:
+            name: VacuumLabs
+            organization:
+              name: VacuumLabs
+            logo: attrk7A4ypA7ICSbp.svg
+            homepage_url: https://vacuumlabs.com/
+            twitter: https://twitter.com/vacuumlabs
+            crunchbase_data:
+              name: VacuumLabs
+              parents: []
+            image_data:
+              fileName: vacuum-labs.svg
+              hash: UlmqB+geUtYKxvHOA390+wS+WYd+bq1mZHfbVgj1DZg=
+            best_practice_data:
+              badge: false
+              percentage: null
+      - subcategory:
+        name: Launchpad
+        items:
+          - item:
+            name: Genius X
+            organization:
+              name: Genius X
+            logo: attXh58sCyjmsfY9N.svg
+            homepage_url: https://www.genius-x.co/
+            twitter: https://twitter.com/OfficialGeniusX
+            crunchbase_data:
+              name: Genius X
+              parents: []
+            image_data:
+              fileName: genius-x.svg
+              hash: RLPWLBoF3LcyAZGs+4yx/M+1fXh8ENDYhybepxuIIdc=
+            best_practice_data:
+              badge: false
+              percentage: null
+  - category:
+    name: Unused
+    subcategories: []

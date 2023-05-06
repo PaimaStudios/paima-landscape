@@ -2,76 +2,57 @@ global:
   name: GraphQL Landscape
   short_name: GraphQL
   repo: graphql/graphql-landscape
-  website: https://landscape.graphql.org
-  short_domain: l.graphql.org
-  company_url: https://graphql.org
-  email: info@graphql.org
-  self: https://www.crunchbase.com/organization/graphql-foundation
-  slack_channel: T08PSQ7BQ/BM7M5TKSR/Xjll8jWb2cgpO7aOCGxUtebU
+  website: https://landscape.paimastudios.com
+  short_domain: l.paimastudios.com
+  company_url: https://paimastudios.com
+  email: contact@paimastudios.com
   meta:
-    title: GraphQL Landscape
-    fb_admin: alex.contini.94
+    title: Paima Landscape
     description: Filter and sort by GitHub stars, funding, commits, contributors, hq location, and tweets
-    twitter: '@graphql'
-    google_site_verification: u_xqWIf8_EzRP4UF92px16rTSoIP49D_g9i7M-4rXds
-    ms_validate: 3AF9FFA12CCC3C49C0ABA71CCA222665
-  membership: Ecosystem Partners
+    twitter: "@PaimaStudios"
+  membership: Unused
   flags:
     hide_license_for_categories:
-      - GraphQL Adopter
+      - Paima Engine Professionals
       - Ecosystem Partners
+      - Unused
 twitter:
-  search: landscape.graphql.org
-  url: https://landscape.graphql.org
-  text: GraphQL Landscape
+  search: landscape.paimastudios.com
+  url: https://landscape.paimastudios.com
+  text: Paima Landscape
 relation:
-  label: GraphQL Relation
+  label: Paima Relation
   url: graphql
   values:
     - id: hosted
-      label: GraphQL Foundation Projects
+      label: Unused filter
       children:
         - id: foundationproject
-          label: GraphQL Foundation Projects
+          label: Unused filter
           prefix: GraphQL
           tag: Foundation Project
-          color: '#3570af'
+          color: "#3570af"
           big_picture_order: 1
           big_picture_label: GraphQL Foundation Project
           big_picture_color: rgb(24,54,114)
     - id: company
-      label: Ecosystem Partners
+      label: Unused filter
       tag: Company
       big_picture_order: 3
     - id: member
-      label: Ecosystem Partners Products/Projects
+      label: Unused filter
       tag: Ecosystem Partners
     - id: false
-      label: Non-Ecosystem Partners Products/Projects
-      url: 'no'
-membership:
-  General:
-    name: GraphQL
-    label: Member
-    funding: General
-  linux_foundation:
-    name: LF
-    label: Project
-    funding: Linux Foundation
-    crunchbase_and_children: https://www.crunchbase.com/organization/linux-foundation
-  'false':
-    funding: 'No'
+      label: Unused filter
+      url: "no"
+membership: []
 home:
   header: >
-    <h1>GraphQL Landscape</h1> The GraphQL Foundation landscape (<a target="_blank" href="images/landscape.png">png</a>, <a target="_blank"
+    <h1>Paima Landscape</h1> The Paima landscape (<a target="_blank" href="images/landscape.png">png</a>, <a target="_blank"
     href="images/landscape.pdf">pdf</a>) is dynamically generated below. It is modeled after the <a href="http://landscape.cncf.io">CNCF landscape</a> and based
     on the same open source code.
   footer: |
     Crunchbase data is used under license from Crunchbase to CNCF.
-ads:
-  - url: https://graphql.org/foundation/join
-    image: /images/support-graphql.svg
-    title: Become a member!
 presets:
   - url: /format=card-mode&grouping=no&license=open-source&sort=first-commit
     label: Open source cards by age
@@ -90,29 +71,21 @@ big_picture:
     tab_index: -1
     url: landscape
     name: Landscape
-    title: GraphQL Landscape
-    fullscreen_header: See the interactive landscape at l.graphql.org
+    title: Paima Landscape
+    fullscreen_header: See the interactive landscape at l.paimastudios.com
     elements:
       - type: HorizontalCategory
         category: Projects
         rows: 4
-        width: 475
+        width: 970
         height: 160
         top: 0
         left: 0
         color: rgb(4,81,49)
         fit_width: true
+        is_large: true
       - type: HorizontalCategory
-        category: Projects
-        rows: 3
-        width: 275
-        height: 160
-        top: 0
-        left: 695
-        color: rgb(79,121,13)
-        fit_width: true
-      - type: HorizontalCategory
-        category: Ecosystem Partners
+        category: Paima Engine Professionals
         rows: 6
         width: 970
         height: 195
@@ -120,8 +93,9 @@ big_picture:
         left: 0
         color: rgb(126,115,14)
         fit_width: true
+        is_large: true
       - type: HorizontalCategory
-        category: Paima Engine Professionals
+        category: Ecosystem Partners
         rows: 4
         width: 650
         height: 150
@@ -129,6 +103,7 @@ big_picture:
         left: 0
         color: rgb(103,66,18)
         fit_width: true
+        is_large: true
       - type: LandscapeInfo
         width: 310
         height: 150
@@ -137,7 +112,7 @@ big_picture:
         children:
           - type: text
             text: |
-              This landscape is intended as a map to explore the GraphQL community, and also shows the member organizations of the GraphQL Foundation.
+              This landscape is intended as a map to explore the Paima ecosystem
             top: 45
             left: 140
             right: 10
@@ -150,23 +125,17 @@ big_picture:
             height: 90
             title: QR Code
           - type: title
-            title: l.graphql.org
+            title: l.paimastudios.com
             top: 95
             left: 10
             font_size: 21
-          - type: image
-            image: left-logo.svg
-            width: 90
-            right: 105
-            top: 10
-            title: Landscape Logo
           - type: image
             image: right-logo.svg
             width: 90
             right: 10
             top: 10
-            title: GraphQL Foundation Logo
+            title: Paima Logo
 test:
-  header: GraphQL Landscape
-  section: Ecosystem Partners
+  header: Paima Landscape
+  section: Paima Engine Professionals
   logo: twitter.svg

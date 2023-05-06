@@ -4,27 +4,21 @@
 
 ```bash
 git submodule update --init --recursive
-export PROJECT_PATH=../
-cd landscapeapp
 yarn install
+yarn setup
 ```
 
-# Setup data
+Setup the `.env` file
+1. Rename `.env.template` to `.env`
+2. Fill in the missing api keys in the file
+
+# Update data
+
+`yarn sync`
+
+# Build
 
 ```bash
-cd landscapeapp
-export PROJECT_PATH=../
-either
-    yarn fetch # run when adding new entries
-or
-    yarn update # run to refetch cached data
-```
-
-# Dev build
-
-```bash
-cd landscapeapp
-export PROJECT_PATH=../
-yarn open:src
 yarn build
+yarn start
 ```

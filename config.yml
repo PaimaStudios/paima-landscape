@@ -1,9 +1,7 @@
 landscapeName: graphql
-landscapeMemberClasses:
-   - name: General Membership
-     category: General
-project: a092M00001G4R8CQAV # GraphQL Foundation
-landscapeMemberCategory: Ecosystem Partners
+landscapeMemberClasses: []
+# project: a092M00001G4R8CQAV # GraphQL Foundation
+landscapeMemberCategory: Paima Engine Professionals
 landscapefile: landscape.yml
 # defaultCrunchbase: https://www.crunchbase.com/organization/graphql-foundation
 missingcsvfile: missing.csv

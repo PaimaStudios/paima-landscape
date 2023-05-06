@@ -1,15 +1,26 @@
 {
-    "name": "paima-interactive-landscape",
+    "name": "paima-landscape",
     "version": "1.0.0",
     "description": "Interactive visualization of the Paima ecosystem",
+    "private": true,
+    "workspaces": [
+        "airtable-fetch",
+        "landscapeapp"
+    ],
     "scripts": {
-      "build": "npm run latest; npm config set scripts-prepend-node-path true; export PROJECT_PATH=\"$PWD\"; npm explore interactive-landscape -- npm run build"
+        "setup": "env-cmd yarn workspace landscapeapp fetch",
+        "sync": "env-cmd yarn workspace airtable-fetch sync:airtable",
+        "build": "env-cmd yarn workspace landscapeapp build",
+        "start": "env-cmd yarn workspace landscapeapp open:src"
     },
     "author": "Paima Studios",
     "license": "MIT",
     "keywords": [],
     "repository": {
-      "type": "git",
-      "url": "https://github.com/PaimaStudios/paima-landscape"
+        "type": "git",
+        "url": "https://github.com/PaimaStudios/paima-landscape"
+    },
+    "devDependencies": {
+        "env-cmd": "^10.1.0"
     }
-  }
+}
