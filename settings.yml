@@ -125,7 +125,7 @@ big_picture:
             height: 90
             title: QR Code
           - type: title
-            title: l.paimastudios.com
+            title: paimastudios.com
             top: 95
             left: 10
             font_size: 21
