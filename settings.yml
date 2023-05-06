@@ -1,8 +1,8 @@
 global:
-  name: GraphQL Landscape
-  short_name: GraphQL
-  repo: graphql/graphql-landscape
-  website: https://landscape.paimastudios.com
+  name: Paima Landscape
+  short_name: paima
+  repo: PaimaStudios/paima-landscape
+  website: https://paimastudios.com
   short_domain: l.paimastudios.com
   company_url: https://paimastudios.com
   email: contact@paimastudios.com
