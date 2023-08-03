@@ -3,20 +3,114 @@ landscape:
     name: Projects
     subcategories:
       - subcategory:
-        name: Game
+        name: Games
         items:
+          - item:
+            name: Jungle Wars
+            organization:
+              name: Paima Studios
+            logo: attJPQ1ImZ710Q4kS.svg
+            homepage_url: https://paimastudios.com/junglewars
+            twitter: https://twitter.com/paimastudios
           - item:
             name: Wrath of the Jungle
             organization:
               name: Paima Studios
             logo: attj8UqE4o6D7keUK.svg
+            homepage_url: https://paimastudios.com/tower-defense
+            twitter: https://twitter.com/paimastudios
+          - item:
+            name: PXL Wars
+            organization:
+              name: Dead Pxlz
+            logo: attE7kBhplMDqmlHN.svg
+            homepage_url: https://pxlz.org/
+            twitter: https://twitter.com/pxlzNFT
+          - item:
+            name: TBD
+            organization:
+              name: SNEK
+            logo: attwWStTcSpfgA9EE.svg
+            homepage_url: https://www.snekcoinada.com/
+            twitter: https://twitter.com/snekcoinada
+          - item:
+            name: Chess
+            organization:
+              name: Paima Studios
+            logo: att474bHuXm0Wxkr4.svg
             homepage_url: https://paimastudios.com
             twitter: https://twitter.com/paimastudios
+          - item:
+            name: Tarochi
+            organization:
+              name: Paima Studios
+            logo: attRQyPcYuDNJ2hGC.svg
+            homepage_url: https://paimastudios.com
+            twitter: https://twitter.com/tarochigame
+          - item:
+            name: Oracle RPG
+            organization:
+              name: dcSpark
+            logo: attDOdIoR70LpuFiz.svg
+            homepage_url: https://github.com/dcSpark/paima-ai-text-adventure/tree/main
+            twitter: https://twitter.com/dcspark_io
+          - item:
+            name: Blackjack Dice
+            organization:
+              name: dcSpark
+            logo: attDmdiHXdU4Bfp1j.svg
+            homepage_url: https://github.com/dcSpark/paima-ai-text-adventure/tree/main
+            twitter: https://twitter.com/dcspark_io
+          - item:
+            name: PFP Brawl
+            organization:
+              name: Decimalist Ventures
+            logo: att8DdpMk5X4im3zc.svg
+            homepage_url: https://www.pfppb.io/
+            twitter: https://twitter.com/pfp_pb
+          - item:
+            name: Cardano Sumo
+            organization:
+              name: Cardano Sumo
+            logo: attHid9dRdogsfIkQ.svg
+            homepage_url: https://adasumo.com
+            twitter: https://twitter.com/CardanoSUMO
+          - item:
+            name: Game name TBD
+            organization:
+              name: Pudgy Cat
+            logo: att7ZeztzimiUjx3k.svg
+            homepage_url: https://pudgycat.io/
+            twitter: https://twitter.com/pudgytoken
+          - item:
+            name: Treasure Chain
+            organization:
+              name: Slamtron
+            logo: attIamBZpok4X1NwH.svg
+            homepage_url: https://www.slamtron.com
+            twitter: https://twitter.com/slamtron_x
+      - subcategory:
+        name: Apps
+        items:
+          - item:
+            name: Smart Chain
+            organization:
+              name: Seedstars
+            logo: atty7pzUFnQpCr5BA.svg
+            homepage_url: https://www.seedstars.com/
+            twitter: https://twitter.com/seedstars
+          - item:
+            name: Statur
+            organization:
+              name: Iagon
+            logo: attZLHi3mLWY9DcER.svg
+            homepage_url: https://twitter.com/IagonOfficial/status/1683781197065748480
+            twitter: https://twitter.com/IagonOfficial
   - category:
     name: Ecosystem Partners
     subcategories:
       - subcategory:
-        name: Chain
+        name: Chains
         items:
           - item:
             name: Algorand Foundation
@@ -26,6 +120,13 @@ landscape:
             homepage_url: https://www.algorand.foundation/
             twitter: https://twitter.com/AlgoFoundation
           - item:
+            name: Arbitrum Nova
+            organization:
+              name: Arbitrum Nova
+            logo: attEfNjqpsapzLGcY.svg
+            homepage_url: https://nova.arbitrum.io/
+            twitter: https://twitter.com/Arbitrum
+          - item:
             name: Astar
             organization:
               name: Astar
@@ -33,18 +134,156 @@ landscape:
             homepage_url: https://astar.network/
             twitter: https://twitter.com/astarNetwork
           - item:
+            name: Cardano
+            organization:
+              name: Cardano
+            logo: attfcT1TPaddBm8WS.svg
+            homepage_url: https://cardano.org/
+            twitter: https://twitter.com/cardano
+          - item:
             name: Milkomeda
             organization:
               name: Milkomeda
             logo: att50oHnmlssGdpOw.svg
             homepage_url: https://milkomeda.com/
             twitter: https://twitter.com/Milkomeda_com
+          - item:
+            name: Mina Foundation
+            organization:
+              name: Mina Foundation
+            logo: attDCApxbWzo2gju8.svg
+            homepage_url: https://minaprotocol.com/
+            twitter: https://twitter.com/MinaProtocol
+          - item:
+            name: Oasys
+            organization:
+              name: Oasys
+            logo: attvtu3uh45GCb3pw.svg
+            homepage_url: https://www.oasys.games/
+            twitter: https://twitter.com/oasys_games
+          - item:
+            name: Polkadot
+            organization:
+              name: Polkadot
+            logo: attWHxcjAYi737Aku.svg
+            homepage_url: https://polkadot.network/
+            twitter: https://twitter.com/Polkadot
+      - subcategory:
+        name: Organizations
+        items:
+          - item:
+            name: JBA
+            organization:
+              name: JBA
+            logo: atttYZD2kDeM0YGBT.svg
+            homepage_url: https://jba-web.jp/
+            twitter: https://twitter.com/J_Blockchain
   - category:
     name: Paima Engine Professionals
     subcategories:
       - subcategory:
-        name: Devshop
+        name: Audit providers
         items:
+          - item:
+            name: Arbitrary Execution
+            organization:
+              name: Arbitrary Execution
+            logo: attpeOS6oEWFdzku6.svg
+            homepage_url: https://www.arbitraryexecution.com/
+            twitter: https://twitter.com/Arbitrary_Exec
+      - subcategory:
+        name: DAOs & Guilds
+        items:
+          - item:
+            name: Astar Gaming Guild
+            organization:
+              name: Astar Gaming Guild
+            logo: attJNF86H8nnk9d6Z.svg
+            homepage_url: https://discord.com/invite/DsXaeqcgAN
+            twitter: https://twitter.com/AstarGuild
+          - item:
+            name: AstarDegens
+            organization:
+              name: AstarDegens
+            logo: att5jekgMchoAtNVc.svg
+            homepage_url: https://astardegens.com/
+            twitter: https://twitter.com/astardegens
+          - item:
+            name: Cardano Gaming Guild (CGG)
+            organization:
+              name: Cardano Gaming Guild (CGG)
+            logo: attBSqIJFKGKlJAp9.svg
+            homepage_url: https://cardanogamingguild.com/
+            twitter: https://twitter.com/cardanogg
+      - subcategory:
+        name: Infrastructure
+        items:
+          - item:
+            name: dcSpark
+            organization:
+              name: dcSpark
+            logo: attpfm0AlCneEatHy.svg
+            homepage_url: https://dcspark.io
+          - item:
+            name: Liquify
+            organization:
+              name: Liquify
+            logo: attIwYGhpeIU8zzPF.svg
+            homepage_url: https://www.liquify.io/
+          - item:
+            name: MetaOasis
+            organization:
+              name: MetaOasis
+            logo: attgdYcxgaB1icYXa.svg
+            homepage_url: https://www.metaoasis.cc/
+            twitter: https://twitter.com/Metaoasis_
+          - item:
+            name: Pocket Network
+            organization:
+              name: Pocket Network
+            logo: attI160lrCOW0jCPF.svg
+            homepage_url: https://www.pokt.network/
+            twitter: https://twitter.com/POKTnetwork
+          - item:
+            name: Seedstars
+            organization:
+              name: Seedstars
+            logo: att2pYkwgqNK1fAlP.svg
+            homepage_url: https://www.seedstars.com
+            twitter: https://twitter.com/seedstars
+          - item:
+            name: Shinkai
+            organization:
+              name: Shinkai
+            logo: attPINIJRQUaMlDTL.svg
+            homepage_url: https://shinkai.com
+          - item:
+            name: ZekoLabs
+            organization:
+              name: ZekoLabs
+            logo: attv75C9bfOoMIsB8.svg
+            homepage_url: https://zeko.io/
+            twitter: https://twitter.com/ZekoLabs
+      - subcategory:
+        name: Launchpads
+        items:
+          - item:
+            name: Genius X
+            organization:
+              name: Genius X
+            logo: attXh58sCyjmsfY9N.svg
+            homepage_url: https://www.genius-x.co/
+            twitter: https://twitter.com/OfficialGeniusX
+      - subcategory:
+        name: Devshops
+        items:
+          - item:
+            name: Globant
+            organization:
+              name: Globant
+            logo: attEZyT04G0tkPLLH.svg
+            homepage_url: https://www.globant.com/
+            twitter: https://twitter.com/globant
           - item:
             name: MLabs
             organization:
@@ -60,15 +299,21 @@ landscape:
             homepage_url: https://vacuumlabs.com/
             twitter: https://twitter.com/vacuumlabs
       - subcategory:
-        name: Launchpad
+        name: Marketing
         items:
           - item:
-            name: Genius X
+            name: Lightning Communications
             organization:
-              name: Genius X
-            logo: attXh58sCyjmsfY9N.svg
-            homepage_url: https://www.genius-x.co/
-            twitter: https://twitter.com/OfficialGeniusX
+              name: Lightning Communications
+            logo: attBU1aT7Is3oLi8s.svg
+            homepage_url: https://www.lightning-communications.co.jp/
+          - item:
+            name: Pacific Meta
+            organization:
+              name: Pacific Meta
+            logo: attuscb8t1eR7UjAz.svg
+            homepage_url: https://pacific-meta.co.jp/
+            twitter: https://twitter.com/PacificMeta_ja
   - category:
     name: Unused
     subcategories: []

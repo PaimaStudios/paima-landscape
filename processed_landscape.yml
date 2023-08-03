@@ -4,14 +4,30 @@ landscape:
     name: Projects
     subcategories:
       - subcategory:
-        name: Game
+        name: Games
         items:
+          - item:
+            name: Jungle Wars
+            organization:
+              name: Paima Studios
+            logo: attJPQ1ImZ710Q4kS.svg
+            homepage_url: https://paimastudios.com/junglewars
+            twitter: https://twitter.com/paimastudios
+            crunchbase_data:
+              name: Paima Studios
+              parents: []
+            image_data:
+              fileName: jungle-wars.svg
+              hash: 5mGOO8KS8EAWbwZwT280Ij4la9hst3pWPVI65unvwjc=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Wrath of the Jungle
             organization:
               name: Paima Studios
             logo: attj8UqE4o6D7keUK.svg
-            homepage_url: https://paimastudios.com
+            homepage_url: https://paimastudios.com/tower-defense
             twitter: https://twitter.com/paimastudios
             crunchbase_data:
               name: Paima Studios
@@ -22,11 +38,206 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+          - item:
+            name: PXL Wars
+            organization:
+              name: Dead Pxlz
+            logo: attE7kBhplMDqmlHN.svg
+            homepage_url: https://pxlz.org/
+            twitter: https://twitter.com/pxlzNFT
+            crunchbase_data:
+              name: Dead Pxlz
+              parents: []
+            image_data:
+              fileName: pxl-wars.svg
+              hash: 8ydiBWsFAsc0mLjHVtel9cqomLa3227HlPRisw2ov0I=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: TBD
+            organization:
+              name: SNEK
+            logo: attwWStTcSpfgA9EE.svg
+            homepage_url: https://www.snekcoinada.com/
+            twitter: https://twitter.com/snekcoinada
+            crunchbase_data:
+              name: SNEK
+              parents: []
+            image_data:
+              fileName: tbd.svg
+              hash: 77PV+R1UUYDyeEYXZdg4FG978rpXymxpyo+2ytk0xyY=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Chess
+            organization:
+              name: Paima Studios
+            logo: att474bHuXm0Wxkr4.svg
+            homepage_url: https://paimastudios.com
+            twitter: https://twitter.com/paimastudios
+            crunchbase_data:
+              name: Paima Studios
+              parents: []
+            image_data:
+              fileName: chess.svg
+              hash: eidpnZpoy+A/aItoPCeCkGQrmjBQfZjdHIY5yqsC9N4=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Tarochi
+            organization:
+              name: Paima Studios
+            logo: attRQyPcYuDNJ2hGC.svg
+            homepage_url: https://paimastudios.com
+            twitter: https://twitter.com/tarochigame
+            crunchbase_data:
+              name: Paima Studios
+              parents: []
+            image_data:
+              fileName: tarochi.svg
+              hash: skZxPyg2UxPMSaR5y/0d+xL6Yb5YBVm76OeoXFjgATg=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Oracle RPG
+            organization:
+              name: dcSpark
+            logo: attDOdIoR70LpuFiz.svg
+            homepage_url: https://github.com/dcSpark/paima-ai-text-adventure/tree/main
+            twitter: https://twitter.com/dcspark_io
+            crunchbase_data:
+              name: dcSpark
+              parents: []
+            image_data:
+              fileName: oracle-rpg.svg
+              hash: Fuo93rU/irHp4q9BwLx6+/09m0SJ6zYttiGleBnGdN8=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Blackjack Dice
+            organization:
+              name: dcSpark
+            logo: attDmdiHXdU4Bfp1j.svg
+            homepage_url: https://github.com/dcSpark/paima-ai-text-adventure/tree/main
+            twitter: https://twitter.com/dcspark_io
+            crunchbase_data:
+              name: dcSpark
+              parents: []
+            image_data:
+              fileName: blackjack-dice.svg
+              hash: vWWzhUnbPJo2qDm20C+APXt2GBv9VHxxZLjqxAK3oF8=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: PFP Brawl
+            organization:
+              name: Decimalist Ventures
+            logo: att8DdpMk5X4im3zc.svg
+            homepage_url: https://www.pfppb.io/
+            twitter: https://twitter.com/pfp_pb
+            crunchbase_data:
+              name: Decimalist Ventures
+              parents: []
+            image_data:
+              fileName: pfp-brawl.svg
+              hash: 5qf3dr3Xif7Gij2XMGcnIlsNVBmXhfp8fxcQhFYjffI=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Cardano Sumo
+            organization:
+              name: Cardano Sumo
+            logo: attHid9dRdogsfIkQ.svg
+            homepage_url: https://adasumo.com
+            twitter: https://twitter.com/CardanoSUMO
+            crunchbase_data:
+              name: Cardano Sumo
+              parents: []
+            image_data:
+              fileName: cardano-sumo.svg
+              hash: vbLVFHmG58LQyffQUrX1gtndhaZRIO04UDV6YvgnVes=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Game name TBD
+            organization:
+              name: Pudgy Cat
+            logo: att7ZeztzimiUjx3k.svg
+            homepage_url: https://pudgycat.io/
+            twitter: https://twitter.com/pudgytoken
+            crunchbase_data:
+              name: Pudgy Cat
+              parents: []
+            image_data:
+              fileName: game-name-tbd.svg
+              hash: 7J1UjpK9ioMnSovu530Xeb1EJ9giW7CnngFHlbigHWM=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Treasure Chain
+            organization:
+              name: Slamtron
+            logo: attIamBZpok4X1NwH.svg
+            homepage_url: https://www.slamtron.com
+            twitter: https://twitter.com/slamtron_x
+            crunchbase_data:
+              name: Slamtron
+              parents: []
+            image_data:
+              fileName: treasure-chain.svg
+              hash: EE6/llKn3xd8u2SLAaJ1zoPOjCeNJZ7OgliKc3n09xU=
+            best_practice_data:
+              badge: false
+              percentage: null
+      - subcategory:
+        name: Apps
+        items:
+          - item:
+            name: Smart Chain
+            organization:
+              name: Seedstars
+            logo: atty7pzUFnQpCr5BA.svg
+            homepage_url: https://www.seedstars.com/
+            twitter: https://twitter.com/seedstars
+            crunchbase_data:
+              name: Seedstars
+              parents: []
+            image_data:
+              fileName: smart-chain.svg
+              hash: GnVEQ+TbLIu3t6pSVXckTLu1ouCmIDuXKhAh/n3Jbzs=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Statur
+            organization:
+              name: Iagon
+            logo: attZLHi3mLWY9DcER.svg
+            homepage_url: https://twitter.com/IagonOfficial/status/1683781197065748480
+            twitter: https://twitter.com/IagonOfficial
+            crunchbase_data:
+              name: Iagon
+              parents: []
+            image_data:
+              fileName: statur.svg
+              hash: WjvWsSANQP0ZL/T/kyC1yf68en/scbaJtWpN26p/mrU=
+            best_practice_data:
+              badge: false
+              percentage: null
   - category:
     name: Ecosystem Partners
     subcategories:
       - subcategory:
-        name: Chain
+        name: Chains
         items:
           - item:
             name: Algorand Foundation
@@ -41,6 +252,22 @@ landscape:
             image_data:
               fileName: algorand-foundation.svg
               hash: ec6DGGaP7KpEUO07/reh04zBwcq9YfFmA/Ms78cfX6g=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Arbitrum Nova
+            organization:
+              name: Arbitrum Nova
+            logo: attEfNjqpsapzLGcY.svg
+            homepage_url: https://nova.arbitrum.io/
+            twitter: https://twitter.com/Arbitrum
+            crunchbase_data:
+              name: Arbitrum Nova
+              parents: []
+            image_data:
+              fileName: arbitrum-nova.svg
+              hash: haxTGAOzSi2a04NEe/9TfquR9jGVc0RBiB74vB2/OC8=
             best_practice_data:
               badge: false
               percentage: null
@@ -61,6 +288,22 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: Cardano
+            organization:
+              name: Cardano
+            logo: attfcT1TPaddBm8WS.svg
+            homepage_url: https://cardano.org/
+            twitter: https://twitter.com/cardano
+            crunchbase_data:
+              name: Cardano
+              parents: []
+            image_data:
+              fileName: cardano.svg
+              hash: lPsRDrs0daDz3mIPvqrZGuWaGCoNlx6uhlxVbhtqpuc=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Milkomeda
             organization:
               name: Milkomeda
@@ -76,12 +319,296 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+          - item:
+            name: Mina Foundation
+            organization:
+              name: Mina Foundation
+            logo: attDCApxbWzo2gju8.svg
+            homepage_url: https://minaprotocol.com/
+            twitter: https://twitter.com/MinaProtocol
+            crunchbase_data:
+              name: Mina Foundation
+              parents: []
+            image_data:
+              fileName: mina-foundation.svg
+              hash: BK6oMydPf5Pu9MAD2T7Ef4HNXjnwqemfsC7NENOwGwo=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Oasys
+            organization:
+              name: Oasys
+            logo: attvtu3uh45GCb3pw.svg
+            homepage_url: https://www.oasys.games/
+            twitter: https://twitter.com/oasys_games
+            crunchbase_data:
+              name: Oasys
+              parents: []
+            image_data:
+              fileName: oasys.svg
+              hash: VqZt1o6V+9s+wtgXVi+ufy3OgQvC53egkkiXHn/pZ4E=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Polkadot
+            organization:
+              name: Polkadot
+            logo: attWHxcjAYi737Aku.svg
+            homepage_url: https://polkadot.network/
+            twitter: https://twitter.com/Polkadot
+            crunchbase_data:
+              name: Polkadot
+              parents: []
+            image_data:
+              fileName: polkadot.svg
+              hash: DC/Pn0bzMg9D3wUfFrFeCinjbSohFcV/ESLmJcMC+xw=
+            best_practice_data:
+              badge: false
+              percentage: null
+      - subcategory:
+        name: Organizations
+        items:
+          - item:
+            name: JBA
+            organization:
+              name: JBA
+            logo: atttYZD2kDeM0YGBT.svg
+            homepage_url: https://jba-web.jp/
+            twitter: https://twitter.com/J_Blockchain
+            crunchbase_data:
+              name: JBA
+              parents: []
+            image_data:
+              fileName: jba.svg
+              hash: 53yiOuS/mdiYwrkBCn/HRGnrzmBfLnwszLVqMdh7Mmw=
+            best_practice_data:
+              badge: false
+              percentage: null
   - category:
     name: Paima Engine Professionals
     subcategories:
       - subcategory:
-        name: Devshop
+        name: Audit providers
         items:
+          - item:
+            name: Arbitrary Execution
+            organization:
+              name: Arbitrary Execution
+            logo: attpeOS6oEWFdzku6.svg
+            homepage_url: https://www.arbitraryexecution.com/
+            twitter: https://twitter.com/Arbitrary_Exec
+            crunchbase_data:
+              name: Arbitrary Execution
+              parents: []
+            image_data:
+              fileName: arbitrary-execution.svg
+              hash: LtkkZGVKKlP4bP23uECS6u4iQ/R7z4C2mOlOk97uoIM=
+            best_practice_data:
+              badge: false
+              percentage: null
+      - subcategory:
+        name: DAOs & Guilds
+        items:
+          - item:
+            name: Astar Gaming Guild
+            organization:
+              name: Astar Gaming Guild
+            logo: attJNF86H8nnk9d6Z.svg
+            homepage_url: https://discord.com/invite/DsXaeqcgAN
+            twitter: https://twitter.com/AstarGuild
+            crunchbase_data:
+              name: Astar Gaming Guild
+              parents: []
+            image_data:
+              fileName: astar-gaming-guild.svg
+              hash: HjHCQAZ0sjkOBGiH63h4epJAogHNIwFZkmKtKkScrHI=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: AstarDegens
+            organization:
+              name: AstarDegens
+            logo: att5jekgMchoAtNVc.svg
+            homepage_url: https://astardegens.com/
+            twitter: https://twitter.com/astardegens
+            crunchbase_data:
+              name: AstarDegens
+              parents: []
+            image_data:
+              fileName: astar-degens.svg
+              hash: oUgLb73CBP06jiYaRBx286svQMRMi+EApIK362gmSSg=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Cardano Gaming Guild (CGG)
+            organization:
+              name: Cardano Gaming Guild (CGG)
+            logo: attBSqIJFKGKlJAp9.svg
+            homepage_url: https://cardanogamingguild.com/
+            twitter: https://twitter.com/cardanogg
+            crunchbase_data:
+              name: Cardano Gaming Guild (CGG)
+              parents: []
+            image_data:
+              fileName: cardano-gaming-guild-cgg.svg
+              hash: RMiLB5dRnLo5ljhI74muss+5MUH6Jo5Y3O6ezc7Js64=
+            best_practice_data:
+              badge: false
+              percentage: null
+      - subcategory:
+        name: Infrastructure
+        items:
+          - item:
+            name: dcSpark
+            organization:
+              name: dcSpark
+            logo: attpfm0AlCneEatHy.svg
+            homepage_url: https://dcspark.io
+            crunchbase_data:
+              name: dcSpark
+              parents: []
+            image_data:
+              fileName: dc-spark.svg
+              hash: QFjiW65Lyp5vBzn7bSFPG/hQT1rzptfWo16AXPUcKO0=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Liquify
+            organization:
+              name: Liquify
+            logo: attIwYGhpeIU8zzPF.svg
+            homepage_url: https://www.liquify.io/
+            crunchbase_data:
+              name: Liquify
+              parents: []
+            image_data:
+              fileName: liquify.svg
+              hash: aYrkNcLuI4EmlhEsSKC4tYYzk1BckbYcF//9r8NpkIM=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: MetaOasis
+            organization:
+              name: MetaOasis
+            logo: attgdYcxgaB1icYXa.svg
+            homepage_url: https://www.metaoasis.cc/
+            twitter: https://twitter.com/Metaoasis_
+            crunchbase_data:
+              name: MetaOasis
+              parents: []
+            image_data:
+              fileName: meta-oasis.svg
+              hash: IqSwgR+wF3u4x1AmyhLJP6MQtfJyvu0VaFfZlhX5SJg=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Pocket Network
+            organization:
+              name: Pocket Network
+            logo: attI160lrCOW0jCPF.svg
+            homepage_url: https://www.pokt.network/
+            twitter: https://twitter.com/POKTnetwork
+            crunchbase_data:
+              name: Pocket Network
+              parents: []
+            image_data:
+              fileName: pocket-network.svg
+              hash: qwy4zR9lByps172VpWfSS/EEg6KWrWvoMeBNvaWVUVo=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Seedstars
+            organization:
+              name: Seedstars
+            logo: att2pYkwgqNK1fAlP.svg
+            homepage_url: https://www.seedstars.com
+            twitter: https://twitter.com/seedstars
+            crunchbase_data:
+              name: Seedstars
+              parents: []
+            image_data:
+              fileName: seedstars.svg
+              hash: oVnzIUFMwOoytpaVveC546ZYJhX+CHFO6eEzDS3mZNU=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Shinkai
+            organization:
+              name: Shinkai
+            logo: attPINIJRQUaMlDTL.svg
+            homepage_url: https://shinkai.com
+            crunchbase_data:
+              name: Shinkai
+              parents: []
+            image_data:
+              fileName: shinkai.svg
+              hash: x32fvgMirHmI8OuvzkLru4cqPBpqVI4ga7BABiu4r3U=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: ZekoLabs
+            organization:
+              name: ZekoLabs
+            logo: attv75C9bfOoMIsB8.svg
+            homepage_url: https://zeko.io/
+            twitter: https://twitter.com/ZekoLabs
+            crunchbase_data:
+              name: ZekoLabs
+              parents: []
+            image_data:
+              fileName: zeko-labs.svg
+              hash: 7O0yCwi4kwPCM5h2+XcuN6c25U9ft5odJ9IGu0l5VEI=
+            best_practice_data:
+              badge: false
+              percentage: null
+      - subcategory:
+        name: Launchpads
+        items:
+          - item:
+            name: Genius X
+            organization:
+              name: Genius X
+            logo: attXh58sCyjmsfY9N.svg
+            homepage_url: https://www.genius-x.co/
+            twitter: https://twitter.com/OfficialGeniusX
+            crunchbase_data:
+              name: Genius X
+              parents: []
+            image_data:
+              fileName: genius-x.svg
+              hash: RLPWLBoF3LcyAZGs+4yx/M+1fXh8ENDYhybepxuIIdc=
+            best_practice_data:
+              badge: false
+              percentage: null
+      - subcategory:
+        name: Devshops
+        items:
+          - item:
+            name: Globant
+            organization:
+              name: Globant
+            logo: attEZyT04G0tkPLLH.svg
+            homepage_url: https://www.globant.com/
+            twitter: https://twitter.com/globant
+            crunchbase_data:
+              name: Globant
+              parents: []
+            image_data:
+              fileName: globant.svg
+              hash: dMGAwSSfN+JCQfnII+hzuKRpojc4/JlfadpZ1akUCOM=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: MLabs
             organization:
@@ -115,21 +642,36 @@ landscape:
               badge: false
               percentage: null
       - subcategory:
-        name: Launchpad
+        name: Marketing
         items:
           - item:
-            name: Genius X
+            name: Lightning Communications
             organization:
-              name: Genius X
-            logo: attXh58sCyjmsfY9N.svg
-            homepage_url: https://www.genius-x.co/
-            twitter: https://twitter.com/OfficialGeniusX
+              name: Lightning Communications
+            logo: attBU1aT7Is3oLi8s.svg
+            homepage_url: https://www.lightning-communications.co.jp/
             crunchbase_data:
-              name: Genius X
+              name: Lightning Communications
               parents: []
             image_data:
-              fileName: genius-x.svg
-              hash: RLPWLBoF3LcyAZGs+4yx/M+1fXh8ENDYhybepxuIIdc=
+              fileName: lightning-communications.svg
+              hash: Shk/W7G/tp4wcJQsUWjjKH8jm7v1KLOtAM0eZ0X9gRA=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Pacific Meta
+            organization:
+              name: Pacific Meta
+            logo: attuscb8t1eR7UjAz.svg
+            homepage_url: https://pacific-meta.co.jp/
+            twitter: https://twitter.com/PacificMeta_ja
+            crunchbase_data:
+              name: Pacific Meta
+              parents: []
+            image_data:
+              fileName: pacific-meta.svg
+              hash: L2WxL3exwpr9JsfdsC1A9RRx1iSGI3tfUzTPpY+Lsmo=
             best_practice_data:
               badge: false
               percentage: null
