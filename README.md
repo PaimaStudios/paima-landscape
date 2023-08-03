@@ -9,6 +9,7 @@ yarn setup
 ```
 
 Setup the `.env` file
+
 1. Rename `.env.template` to `.env`
 2. Fill in the missing api keys in the file
 
@@ -19,6 +20,6 @@ Setup the `.env` file
 # Build
 
 ```bash
-yarn build
+yarn build # note: this will often crash. Just try again
 yarn start
 ```
